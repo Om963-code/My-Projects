@@ -1,2 +1,2 @@
 # My-Projects
-The projects I have done till date fueling my creative and technical skills in the fields of Information Technology and Business Analytics.
+IT graduate and data enthusiast specializing in networking, cloud computing, and data analytics. Passionate about leveraging technology to solve real-world problems.
